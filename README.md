@@ -11,14 +11,18 @@ Requirements:
 
 Hardware: Raspberry Pi, 6 servo motors, external power supply (if needed).
 Software: Python 3, RPi.GPIO library (pip install RPi.GPIO).
+
 Setup Instructions:
 
 Connect servo motors to GPIO pins (e.g., GPIO17, GPIO18, GPIO22, etc.).
+
 Clone the repository:
+
 bash
 Copy code
 
 git clone https://github.com/your-username/braille-converter.git
+
 cd braille-converter
 
 Run the script:
