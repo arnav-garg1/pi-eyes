@@ -17,12 +17,16 @@ Connect servo motors to GPIO pins (e.g., GPIO17, GPIO18, GPIO22, etc.).
 Clone the repository:
 bash
 Copy code
+
 git clone https://github.com/your-username/braille-converter.git
 cd braille-converter
+
 Run the script:
 bash
+
 Copy code
 python3 braille_converter.py
+
 Enter text when prompted, and the servo motors will output Braille patterns.
 Example:
 Input: hello
